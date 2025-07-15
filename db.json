@@ -1,0 +1,31 @@
+{
+  "events": [
+    {
+      "id": "O569",
+      "name": "concierto",
+      "email": "email@gmail.com",
+      "number": "24680",
+      "date": "2020-20-12"
+    }
+  ],
+  "users": [
+    {
+      "id": "241o",
+      "name": "jero",
+      "email": "jerito@gmail.com",
+      "password": "12345",
+      "role": "admin"
+    },
+    {
+      "id": "R2F1",
+      "email": "manuel@gmail.com",
+      "password": "12345",
+      "role": "visitor"
+    }
+  ],
+  "reserve": [
+    {
+      "id": "O569"
+    }
+  ]
+}
